@@ -74,4 +74,15 @@
     margin-left: 235px; /*Added*/
     min-height: 90vh; /*Added newly*/
   }
-  
+
+  .pages_list_item{
+     width: 50%;
+  }
+
+ .pages_left {
+     float: left;
+ }
+
+ .pages_right {
+     float: right;
+ }
