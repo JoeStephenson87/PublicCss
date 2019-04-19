@@ -75,16 +75,14 @@
     min-height: 90vh; /*Added newly*/
   }
 
-  .pages_list_item{
-     width: 50%;
-  }
-
- .pages_left {
+ .fl-50 {
      float: left;
+     width: 50%;
  }
 
- .pages_right {
+ .fr-50 {
      float: right;
+     width: 50%;
  }
 
 .w-50{width:50%!important}
